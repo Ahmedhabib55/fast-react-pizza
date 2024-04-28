@@ -9,4 +9,4 @@ A React application built with Tailwind CSS for styling, React Router for naviga
 - React
 - Tailwind CSS
 - React Router
-- userReducer
+- redux toolkit
